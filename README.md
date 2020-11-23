@@ -10,5 +10,6 @@ En este curso vemos de todo:
 * Marico el que lo lea
 * Trucos muy locos del profesor
 * Creado por Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y como recordatorio ""Lee el punto 4"".
