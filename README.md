@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * Las buenas prácticas
 * Marico el que lo lea
 * Trucos muy locos del profesor
+* Creado por Platzi Team
 
 Y como recordatorio ""Lee el punto 4"".
